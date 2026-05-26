@@ -6,10 +6,10 @@ Welcome to my cybersecurity learning repository.
 
 This repository contains hands-on labs, networking exercises, Linux practice, and security projects completed as part of my cybersecurity studies.
 
-## Current Skills
+## Skills Being Developed
 
 - Networking Fundamentals
-- Linux Basics
+- Linux Fundamentals
 - Virtualization
 - Cybersecurity Fundamentals
 - Windows Administration
